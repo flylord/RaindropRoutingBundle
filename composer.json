@@ -1,5 +1,5 @@
 {
-    "name": "simplicityraindrop-routing-bundle",
+    "name": "simplicity/raindrop-routing-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Raindrop RoutingBundle",
     "keywords": ["routing", "router", "database", "doctrine"],
